@@ -38,6 +38,7 @@ button{
   border: none;
   position: relative;
   left: 10%;
+  bottom: 20%;
   background-color: yellow;
   width: 9%;
   height: 10vh;
