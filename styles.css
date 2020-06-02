@@ -45,7 +45,7 @@ button{
 }
 @media(max-width: 760px) {
   button {
-    width: 15%;
+    width: 20%;
     height: 5vh;
 }
 button:hover{
