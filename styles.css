@@ -36,13 +36,17 @@ button{
   font-weight: bold;
   outline: none;
   border: none;
-  border-radius: 50%;
   position: relative;
   left: 10%;
   background-color: yellow;
-  width: 7%;
+  width: 9%;
   height: 10vh;
   transition: ease-in 0.1s;
+}
+@media(max-width: 760px) {
+  button {
+    width: 10%;
+    height: 50vh;
 }
 button:hover{
   background-color: yellowgreen;
