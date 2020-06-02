@@ -46,7 +46,7 @@ button{
 @media(max-width: 760px) {
   button {
     width: 20%;
-    height: 5vh;
+    height: 4vh;
 }
 button:hover{
   background-color: yellowgreen;
